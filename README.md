@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akaki Burjanadze
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning React/TypeScript
+- 👀 I’m interested in web development and programming in general
+- 🌱 I’m currently learning front-end web
 
 <!---
 Akaki16/Akaki16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
