@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akaki Burjanadze
+- 👋 Hi, I’m Akaki
 - 👀 I’m interested in web development and programming in general
 - 🌱 I’m currently learning front-end web
 
